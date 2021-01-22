@@ -3,9 +3,12 @@ Rencana Konten st
 -awdw
  *wdaw
  *awd
+ ^awd
+ ^awaw
 -awd
 -awdaw
 -awdawd
 -awdw
 -awdaw
 -earg
+awdawd
